@@ -8,7 +8,7 @@
 			</div>
 		</div>
 		<div class="flex">
-			<div
+            <div
 				class="w-14 flex flex-shrink-0 flex-col justify-between items-center border-r border-gray-500/30 text-gray-500 py-4"
 			>
 				<svg width="24" height="216" fill="none">

@@ -5,6 +5,7 @@ import postcss from "./postcss.config.js";
 // https://github.com/tailwindlabs/tailwindcss/discussions/3646#discussioncomment-1742991
 // https://vitejs.dev/config/
 export default defineConfig({
+	base: "tailwind-vscode-mock",
 	plugins: [vue()],
 	css: {
 		postcss,
